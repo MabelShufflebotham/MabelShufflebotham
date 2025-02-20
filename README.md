@@ -1,3 +1,4 @@
 Author: Mabel Shufflebotham (mas236)
 
-A simulated game using a husky robot on ros2. Object collector game for younger children simulated through Gazebo
+A place to document all past and future projects throughout my education and free time. This includes:
+- Revision App (Ready, Steady, Revise!) Beta version
